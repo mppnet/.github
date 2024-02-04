@@ -1,12 +1,12 @@
-## Hi there 👋
+# multiplayerpiano.net
+This is the multiplayerpiano.net organization. Our source code is stored here, such as backend servers, configuration and the mpp frontend.
 
-<!--
+- [Frontend](https://github.com/mppnet/frontend)
+- [First version of the frontend](https://github.com/mppnet/hri-based-frontend)
 
-**Here are some ideas to get you started:**
+All code (apart from private repositories) in this organization is licensed under GPLv3.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Contributors
+<a href="https://github.com/mppnet/frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mppnet/frontend" />
+</a>
